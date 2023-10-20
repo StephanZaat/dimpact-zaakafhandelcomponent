@@ -1,0 +1,169 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "login;bob-wants-to-login-to-zac",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Bob wants to login to ZAC",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 375301757
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1571565442
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "\"Bob\" logs in with username \"testuser1\" and password \"testuser1\"",
+            "match": {
+              "location": "step-definitions/authentication.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 646257280
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "\"Bob\" sees the text: \"Dashboard\"",
+            "match": {
+              "location": "step-definitions/common.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2134859076
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 43423764
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "login",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Login",
+    "tags": [],
+    "uri": "features/1-authentication.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "login;bob-wants-to-create-a-new-zaak",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Bob wants to create a new zaak",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 243482073
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1456966396
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "\"Bob\" logs in with username \"testuser1\" and password \"testuser1\"",
+            "match": {
+              "location": "step-definitions/authentication.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 534066662
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "\"Bob\" wants to create a new zaak",
+            "match": {
+              "location": "step-definitions/zaak.ts:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7255570442
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "\"Bob\" sees the text: \"Case |\"",
+            "match": {
+              "location": "step-definitions/common.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2375390337
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 42864566
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "login",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Login",
+    "tags": [],
+    "uri": "features/2-zaken-toevoegen.feature"
+  }
+]
