@@ -397,7 +397,7 @@ pre {
           </div>
           <div class="label-container">
             <div class="generated-on">
-              Mon Oct 30 2023 21:06:21 GMT+0000 (Coordinated Universal Time)
+              Tue Oct 31 2023 21:07:31 GMT+0000 (Coordinated Universal Time)
             </div>
           </div>
       </div>
@@ -423,7 +423,7 @@ pre {
         </div>
         <div class="feature-value">
           <h5>
-            2
+            0
           </h5>
         </div>
       </div>
@@ -433,7 +433,7 @@ pre {
         </div>
         <div class="feature-value">
           <h5>
-            0
+            2
           </h5>
         </div>
       </div>
@@ -506,7 +506,7 @@ pre {
 <div class="row" xmlns="http://www.w3.org/1999/html">
 
 
-<div class="feature-passed">
+<div class="feature-failed">
 
     <div class="col-lg-6 col-md-6">
         <div class="panel panel-default">
@@ -516,14 +516,14 @@ pre {
                     <div class="tags">
                     </div>
                     
-                    <a data-toggle="collapse" href="#collapseFeatureappa24266bb-09b7-4522-9b22-b89910587d85">
+                    <a data-toggle="collapse" href="#collapseFeatureapp8f4f9f72-a168-4cde-b5eb-a0fe4eec8446">
                         <i class="glyphicon glyphicon-chevron-right"></i>
                         <i class="glyphicon glyphicon-chevron-down"></i>
                         <b>Feature:</b>Login
                         <span class="label-container">
-              <span class="label label-success"
-                                                         title="1 Scenarios Passed">1</span>
               
+              <span class="label label-danger"
+                                                         title="1 Scenarios Failed">1</span>
               
               
               
@@ -532,7 +532,7 @@ pre {
                     </a>
                 </h4>
             </div>
-            <div id="collapseFeatureappa24266bb-09b7-4522-9b22-b89910587d85" class="panel-collapse collapse">
+            <div id="collapseFeatureapp8f4f9f72-a168-4cde-b5eb-a0fe4eec8446" class="panel-collapse collapse">
                 <div class="panel-body">
                     
                     
@@ -545,10 +545,10 @@ pre {
                                 <div class="tags">
                                 </div>
                                 
-                                <a data-toggle="collapse" href="#collapseScenarioapp185f8b23-501b-4444-975b-be505dcd387a">
+                                <a data-toggle="collapse" href="#collapseScenarioapp3bb0488b-fe60-457b-a9f1-97ded353eae1">
                                     <div>
 
-                                        <div style="padding-right: 30px">
+                                        <div style="padding-right: 50px">
                                             <i class="glyphicon glyphicon-chevron-right"></i>
                                             <i class="glyphicon glyphicon-chevron-down"></i>
                                             <b>Scenario:</b><div class="ellipsis" data-text="Bob wants to login to ZAC">Bob wants to login to ZAC</div>
@@ -556,12 +556,13 @@ pre {
                                         <div>
                             <span class="label-container ">
                               
-                              <span class="label label-success"
-                                                               title="3 Steps Passed">3</span>
                               
                               
                               
-                              
+                              <span class="label label-warning"
+                                                                title="2 Steps Skipped">2</span>
+                              <span class="label label-danger"
+                                                               title="1 Steps Failed">1</span>
                               
                             </span>
                                         </div>
@@ -570,7 +571,7 @@ pre {
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapseScenarioapp185f8b23-501b-4444-975b-be505dcd387a"
+                        <div id="collapseScenarioapp3bb0488b-fe60-457b-a9f1-97ded353eae1"
                              class="panel-collapse collapse">
                             <div class="panel-body">
                                 <div></div>
@@ -583,8 +584,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-danger" title="Failed"><i
+                                            class="glyphicon glyphicon-remove"></i></span>
                                     
                                     
                                     <span class="text">
@@ -593,7 +594,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               1s 617ms
+                               35s 8ms
                               </span>
                             
                          
@@ -604,6 +605,56 @@ pre {
                       </span>
                                 
                                 
+
+                                    
+                                    <a href="#error0_01"
+                                       data-toggle="collapse" class="toggle">Show Error +</a>
+                                    <div id="error0_01"
+                                         class="collapse">
+                                        <pre class="info show-modal"
+                                             data-toggle="modal"
+                                             style="cursor: pointer"
+                                             data-target="#error-modal-0_01">
+                                            <br> page.goto: Timeout 30000ms exceeded.
+=========================== logs ===========================
+navigating to "http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/", waiting until "load"
+============================================================
+    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)
+    at CustomWorld.(anonymous) (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)</pre>
+                                    </div>
+
+                                <div class="modal fade" id="error-modal-0_01" tabindex="-1" role="dialog"
+                                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="error-modal-title">
+                                                    Error
+                                                </h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <h5>
+                                                    <pre><br>page.goto: Timeout 30000ms exceeded.
+=========================== logs ===========================
+navigating to "http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/", waiting until "load"
+============================================================
+    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)
+    at CustomWorld.(anonymous) (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)</pre>
+                                                </h5>
+                                            </div>
+
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
 
                                     
 
@@ -621,8 +672,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-warning" title="Skipped"><i
+                                            class="glyphicon glyphicon-minus"></i></span>
                                     
                                     
                                     <span class="text">
@@ -631,7 +682,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               859ms
+                               < 1ms
                               </span>
                             
                          
@@ -659,8 +710,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-warning" title="Skipped"><i
+                                            class="glyphicon glyphicon-minus"></i></span>
                                     
                                     
                                     <span class="text">
@@ -669,7 +720,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               2s 315ms
+                               < 1ms
                               </span>
                             
                          
@@ -708,7 +759,7 @@ pre {
 
 
 
-<div class="feature-passed">
+<div class="feature-failed">
 
     <div class="col-lg-6 col-md-6">
         <div class="panel panel-default">
@@ -718,14 +769,14 @@ pre {
                     <div class="tags">
                     </div>
                     
-                    <a data-toggle="collapse" href="#collapseFeatureapp9581e471-a3d6-44f8-8f8b-bd31feb839d4">
+                    <a data-toggle="collapse" href="#collapseFeatureapp34af9b11-32ff-4cb5-8872-2d97a5e73f4c">
                         <i class="glyphicon glyphicon-chevron-right"></i>
                         <i class="glyphicon glyphicon-chevron-down"></i>
                         <b>Feature:</b>Login
                         <span class="label-container">
-              <span class="label label-success"
-                                                         title="1 Scenarios Passed">1</span>
               
+              <span class="label label-danger"
+                                                         title="1 Scenarios Failed">1</span>
               
               
               
@@ -734,7 +785,7 @@ pre {
                     </a>
                 </h4>
             </div>
-            <div id="collapseFeatureapp9581e471-a3d6-44f8-8f8b-bd31feb839d4" class="panel-collapse collapse">
+            <div id="collapseFeatureapp34af9b11-32ff-4cb5-8872-2d97a5e73f4c" class="panel-collapse collapse">
                 <div class="panel-body">
                     
                     
@@ -747,10 +798,10 @@ pre {
                                 <div class="tags">
                                 </div>
                                 
-                                <a data-toggle="collapse" href="#collapseScenarioapp5bcfc4cd-2f73-4ad0-87a4-2540b8058128">
+                                <a data-toggle="collapse" href="#collapseScenarioappd564e4ca-7fae-4ee5-9d4b-a14ab31843e4">
                                     <div>
 
-                                        <div style="padding-right: 30px">
+                                        <div style="padding-right: 50px">
                                             <i class="glyphicon glyphicon-chevron-right"></i>
                                             <i class="glyphicon glyphicon-chevron-down"></i>
                                             <b>Scenario:</b><div class="ellipsis" data-text="Bob wants to create a new zaak">Bob wants to create a new zaak</div>
@@ -758,12 +809,13 @@ pre {
                                         <div>
                             <span class="label-container ">
                               
-                              <span class="label label-success"
-                                                               title="4 Steps Passed">4</span>
                               
                               
                               
-                              
+                              <span class="label label-warning"
+                                                                title="3 Steps Skipped">3</span>
+                              <span class="label label-danger"
+                                                               title="1 Steps Failed">1</span>
                               
                             </span>
                                         </div>
@@ -772,7 +824,7 @@ pre {
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapseScenarioapp5bcfc4cd-2f73-4ad0-87a4-2540b8058128"
+                        <div id="collapseScenarioappd564e4ca-7fae-4ee5-9d4b-a14ab31843e4"
                              class="panel-collapse collapse">
                             <div class="panel-body">
                                 <div></div>
@@ -785,8 +837,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-danger" title="Failed"><i
+                                            class="glyphicon glyphicon-remove"></i></span>
                                     
                                     
                                     <span class="text">
@@ -795,7 +847,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               1s 594ms
+                               35s 8ms
                               </span>
                             
                          
@@ -806,6 +858,56 @@ pre {
                       </span>
                                 
                                 
+
+                                    
+                                    <a href="#error1_01"
+                                       data-toggle="collapse" class="toggle">Show Error +</a>
+                                    <div id="error1_01"
+                                         class="collapse">
+                                        <pre class="info show-modal"
+                                             data-toggle="modal"
+                                             style="cursor: pointer"
+                                             data-target="#error-modal-1_01">
+                                            <br> page.goto: Timeout 30000ms exceeded.
+=========================== logs ===========================
+navigating to "http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/", waiting until "load"
+============================================================
+    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)
+    at CustomWorld.(anonymous) (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)</pre>
+                                    </div>
+
+                                <div class="modal fade" id="error-modal-1_01" tabindex="-1" role="dialog"
+                                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                                </button>
+                                                <h4 class="modal-title" id="error-modal-title">
+                                                    Error
+                                                </h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <h5>
+                                                    <pre><br>page.goto: Timeout 30000ms exceeded.
+=========================== logs ===========================
+navigating to "http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/", waiting until "load"
+============================================================
+    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)
+    at CustomWorld.(anonymous) (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)</pre>
+                                                </h5>
+                                            </div>
+
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                                    Close
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
 
                                     
 
@@ -823,8 +925,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-warning" title="Skipped"><i
+                                            class="glyphicon glyphicon-minus"></i></span>
                                     
                                     
                                     <span class="text">
@@ -833,7 +935,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               597ms
+                               < 1ms
                               </span>
                             
                          
@@ -861,8 +963,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-warning" title="Skipped"><i
+                                            class="glyphicon glyphicon-minus"></i></span>
                                     
                                     
                                     <span class="text">
@@ -871,7 +973,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               7s 960ms
+                               < 1ms
                               </span>
                             
                          
@@ -899,8 +1001,8 @@ pre {
                                 <div class="row steps">
                                     
                                     
-                                    <span class="label label-success" title="Success"><i
-                                            class="glyphicon glyphicon-ok"></i></span>
+                                    <span class="label label-warning" title="Skipped"><i
+                                            class="glyphicon glyphicon-minus"></i></span>
                                     
                                     
                                     <span class="text">
@@ -909,7 +1011,7 @@ pre {
                             
                           
                               <span class="step-duration">
-                               2s 869ms
+                               < 1ms
                               </span>
                             
                          
@@ -967,8 +1069,8 @@ pre {
     google.setOnLoadCallback(function () {
       drawChart({
         "title": "Features",
-        "failed": 0,
-        "passed": 2,
+        "failed": 2,
+        "passed": 0,
         "notdefined": 0,
         "pending": 0,
         "skipped": 0,
@@ -978,8 +1080,8 @@ pre {
     google.setOnLoadCallback(function () {
       drawChart({
         "title": "Scenarios",
-        "failed": 0,
-        "passed": 2,
+        "failed": 2,
+        "passed": 0,
         "rerun": 0,
         "notdefined": 0,
         "pending": 0,
