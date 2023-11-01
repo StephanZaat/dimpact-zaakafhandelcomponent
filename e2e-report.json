@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 557748428
+              "duration": 1512150032
             }
           },
           {
@@ -26,9 +26,8 @@
               "location": "step-definitions/common.ts:9"
             },
             "result": {
-              "status": "failed",
-              "duration": 35008998609,
-              "error_message": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/\", waiting until \"load\"\n============================================================\n    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)"
+              "status": "passed",
+              "duration": 1994785060
             }
           },
           {
@@ -40,8 +39,8 @@
               "location": "step-definitions/authentication.ts:9"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 723692925
             }
           },
           {
@@ -53,8 +52,8 @@
               "location": "step-definitions/common.ts:14"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2621404449
             }
           },
           {
@@ -62,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 57281809
+              "duration": 59499696
             }
           }
         ],
@@ -92,7 +91,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 310102660
+              "duration": 322147403
             }
           },
           {
@@ -104,9 +103,8 @@
               "location": "step-definitions/common.ts:9"
             },
             "result": {
-              "status": "failed",
-              "duration": 35008991571,
-              "error_message": "page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"http://zaakafhandelcomponent-zac-dev.westeurope.cloudapp.azure.com/\", waiting until \"load\"\n============================================================\n    at CustomWorld.openUrl (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/support/worlds/world.ts:40:25)\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/common.ts:11:16)"
+              "status": "passed",
+              "duration": 2006276139
             }
           },
           {
@@ -118,8 +116,8 @@
               "location": "step-definitions/authentication.ts:9"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 714849618
             }
           },
           {
@@ -131,8 +129,8 @@
               "location": "step-definitions/zaak.ts:8"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 10874936996
             }
           },
           {
@@ -144,8 +142,8 @@
               "location": "step-definitions/common.ts:14"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 3373154462
             }
           },
           {
@@ -153,7 +151,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 34487621
+              "duration": 65394830
             }
           }
         ],
