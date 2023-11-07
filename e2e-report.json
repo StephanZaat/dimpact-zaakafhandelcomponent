@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 528629593
+              "duration": 413076629
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1285246902
+              "duration": 1995424014
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 340035897
+              "duration": 406721776
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5120951452,
+              "duration": 5098799396,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -68,7 +68,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 101571449
+              "duration": 88660801
             }
           }
         ],
@@ -87,7 +87,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 274892573
+              "duration": 284404372
             }
           },
           {
@@ -100,7 +100,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1258699977
+              "duration": 1961220998
             }
           },
           {
@@ -113,7 +113,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5111799870,
+              "duration": 5095589396,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -154,7 +154,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 99871771
+              "duration": 83632599
             }
           }
         ],
@@ -173,7 +173,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 298550898
+              "duration": 288968202
             }
           },
           {
@@ -186,7 +186,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1255609633
+              "duration": 1962049176
             }
           },
           {
@@ -199,7 +199,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 29727488
+              "duration": 37585770
             }
           },
           {
@@ -212,7 +212,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 290838895
+              "duration": 331393378
             }
           },
           {
@@ -225,7 +225,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5105049365,
+              "duration": 5105557520,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -240,7 +240,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 113929887
+              "duration": 112276689
             }
           }
         ],
@@ -270,7 +270,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 300300520
+              "duration": 271086864
             }
           },
           {
@@ -283,7 +283,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1248597304
+              "duration": 1971950750
             }
           },
           {
@@ -296,7 +296,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 30117031055,
+              "duration": 30097183237,
               "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for getByLabel('Zaak toevoegen')\n============================================================\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/zaak.ts:9:50)"
             },
             "embeddings": [
@@ -324,7 +324,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 100616421
+              "duration": 85821628
             }
           }
         ],
