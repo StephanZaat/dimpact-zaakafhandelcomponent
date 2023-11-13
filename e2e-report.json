@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 434923232
+              "duration": 390968980
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1415366507
+              "duration": 9259721561
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 534921301
+              "duration": 673860986
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1801992625
+              "duration": 1904685027
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 30132107
+              "duration": 163665447
             }
           }
         ],
@@ -80,7 +80,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 279242930
+              "duration": 252937064
             }
           },
           {
@@ -93,7 +93,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1377595552
+              "duration": 2027196780
             }
           },
           {
@@ -101,9 +101,12 @@
             "keyword": "When ",
             "line": 10,
             "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
+            "match": {
+              "location": "step-definitions/common.ts:18"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 423191859
             }
           },
           {
@@ -111,9 +114,12 @@
             "keyword": "When ",
             "line": 11,
             "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "match": {
+              "location": "step-definitions/common.ts:26"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 886130314
             }
           },
           {
@@ -125,8 +131,8 @@
               "location": "step-definitions/common.ts:14"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 22702024
             }
           },
           {
@@ -134,7 +140,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 47106661
+              "duration": 111375647
             }
           }
         ],
@@ -153,7 +159,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 277023960
+              "duration": 257221231
             }
           },
           {
@@ -166,7 +172,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1385936578
+              "duration": 1847845854
             }
           },
           {
@@ -179,7 +185,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 41848509
+              "duration": 39697395
             }
           },
           {
@@ -192,7 +198,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 493397544
+              "duration": 626405803
             }
           },
           {
@@ -205,7 +211,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1814569808
+              "duration": 2452814394
             }
           },
           {
@@ -213,7 +219,165 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 45678442
+              "duration": 157311204
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-wants-to-log-out-of-the-application-after-being-logged-in",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "Bob wants to log out of the application after being logged in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 262861401
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 21,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1895484584
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
+            "match": {
+              "location": "step-definitions/common.ts:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 545506453
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 23,
+            "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "match": {
+              "location": "step-definitions/common.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 895738787
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 24,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21706434
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 116192316
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-logs-back-in",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "Bob logs back in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 267395466
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1857314677
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 29656875
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "\"Bob\" logs in",
+            "match": {
+              "location": "step-definitions/authentication.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 601031829
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "\"Bob\" sees the text: \"Dashboard\"",
+            "match": {
+              "location": "step-definitions/common.ts:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1911953777
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 179391237
             }
           }
         ],
@@ -243,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 279948368
+              "duration": 263391499
             }
           },
           {
@@ -256,43 +420,33 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1398959550
+              "duration": 2014203102
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 5,
-            "name": "\"Bob\" logs in with username \"testuser1\" and password \"testuser1\"",
-            "result": {
-              "status": "undefined",
-              "duration": 0
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 6,
             "name": "\"Bob\" wants to create a new zaak",
             "match": {
               "location": "step-definitions/zaak.ts:8"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 8766612314
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 7,
+            "line": 6,
             "name": "\"Bob\" sees the text: \"Case |\"",
             "match": {
               "location": "step-definitions/common.ts:14"
             },
             "result": {
-              "status": "skipped",
-              "duration": 0
+              "status": "passed",
+              "duration": 2831517555
             }
           },
           {
@@ -300,7 +454,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 35459876
+              "duration": 99790142
             }
           }
         ],
