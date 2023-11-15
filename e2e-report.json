@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 456633503
+              "duration": 1280965583
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3359403118
+              "duration": 2942239201
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 523996748
+              "duration": 540380871
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5087258753,
+              "duration": 5080014122,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -68,7 +68,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 111889231
+              "duration": 206251265
             }
           }
         ],
@@ -87,7 +87,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 261796128
+              "duration": 737327778
             }
           },
           {
@@ -100,7 +100,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1093293792
+              "duration": 1404173636
             }
           },
           {
@@ -113,7 +113,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5097624626,
+              "duration": 5085974246,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -127,7 +127,7 @@
             "arguments": [],
             "keyword": "When ",
             "line": 11,
-            "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
               "location": "step-definitions/common.ts:26"
             },
@@ -154,7 +154,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 95698177
+              "duration": 78567447
             }
           }
         ],
@@ -173,7 +173,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 254527882
+              "duration": 293235142
             }
           },
           {
@@ -186,7 +186,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1032962317
+              "duration": 1368319661
             }
           },
           {
@@ -199,7 +199,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5098189117,
+              "duration": 5088199704,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -240,7 +240,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 97870825
+              "duration": 81266632
             }
           }
         ],
@@ -259,7 +259,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 267701742
+              "duration": 275313790
             }
           },
           {
@@ -272,7 +272,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1044323238
+              "duration": 1430689176
             }
           },
           {
@@ -285,7 +285,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5087230220,
+              "duration": 5077477196,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -299,7 +299,7 @@
             "arguments": [],
             "keyword": "When ",
             "line": 23,
-            "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
               "location": "step-definitions/common.ts:26"
             },
@@ -326,7 +326,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 91784413
+              "duration": 78444342
             }
           }
         ],
@@ -345,7 +345,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 262101624
+              "duration": 270597038
             }
           },
           {
@@ -358,7 +358,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1057766865
+              "duration": 1386531824
             }
           },
           {
@@ -371,7 +371,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5088252768,
+              "duration": 5079038395,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -412,7 +412,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 93553088
+              "duration": 85939667
             }
           }
         ],
@@ -442,7 +442,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 270251019
+              "duration": 269003541
             }
           },
           {
@@ -455,7 +455,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1054416694
+              "duration": 1432006947
             }
           },
           {
@@ -464,12 +464,12 @@
             "line": 5,
             "name": "\"Bob\" wants to create a new zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:8"
+              "location": "step-definitions/zaak.ts:9"
             },
             "result": {
               "status": "failed",
-              "duration": 30095616224,
-              "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for getByLabel('Zaak toevoegen')\n============================================================\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/zaak.ts:9:50)"
+              "duration": 30076336741,
+              "error_message": "locator.click: Timeout 30000ms exceeded.\n=========================== logs ===========================\nwaiting for getByLabel('Zaak toevoegen')\n============================================================\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/zaak.ts:10:50)"
             },
             "embeddings": [
               {
@@ -482,7 +482,7 @@
             "arguments": [],
             "keyword": "Then ",
             "line": 6,
-            "name": "\"Bob\" sees the text: \"Case |\"",
+            "name": "\"Bob\" sees the text: \"Zaak |\"",
             "match": {
               "location": "step-definitions/common.ts:14"
             },
@@ -496,7 +496,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 104858202
+              "duration": 76990809
             }
           }
         ],
