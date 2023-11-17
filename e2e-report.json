@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 387800893
+              "duration": 403743994
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3750486748
+              "duration": 2468598359
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 934763980
+              "duration": 737606235
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1997262849
+              "duration": 1851678980
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 98447916
+              "duration": 102354848
             }
           }
         ],
@@ -80,7 +80,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 293408597
+              "duration": 310819806
             }
           },
           {
@@ -93,7 +93,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2605387262
+              "duration": 1873347216
             }
           },
           {
@@ -106,20 +106,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 586102751
+              "duration": 522190482
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 11,
-            "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
               "location": "step-definitions/common.ts:26"
             },
             "result": {
               "status": "passed",
-              "duration": 1067106326
+              "duration": 818936506
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17741829
+              "duration": 17748742
             }
           },
           {
@@ -140,7 +140,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 87352462
+              "duration": 89796111
             }
           }
         ],
@@ -159,7 +159,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 303788119
+              "duration": 303427645
             }
           },
           {
@@ -172,7 +172,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3010529609
+              "duration": 2142370445
             }
           },
           {
@@ -185,7 +185,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 25623107
+              "duration": 26771444
             }
           },
           {
@@ -198,7 +198,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 803527190
+              "duration": 620564235
             }
           },
           {
@@ -211,7 +211,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2381546300
+              "duration": 1856206035
             }
           },
           {
@@ -219,7 +219,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 76506401
+              "duration": 93433667
             }
           }
         ],
@@ -238,7 +238,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 290715314
+              "duration": 290598314
             }
           },
           {
@@ -251,7 +251,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2578964228
+              "duration": 1837365798
             }
           },
           {
@@ -264,20 +264,20 @@
             },
             "result": {
               "status": "passed",
-              "duration": 672227214
+              "duration": 528373039
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 23,
-            "name": "\"Bob\" clicks on element with text: \"Log out\"",
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
               "location": "step-definitions/common.ts:26"
             },
             "result": {
               "status": "passed",
-              "duration": 1013235341
+              "duration": 811640413
             }
           },
           {
@@ -290,7 +290,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17216667
+              "duration": 18217044
             }
           },
           {
@@ -298,7 +298,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 83418872
+              "duration": 92548256
             }
           }
         ],
@@ -317,7 +317,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 303077714
+              "duration": 301130827
             }
           },
           {
@@ -330,7 +330,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3028326286
+              "duration": 2138724412
             }
           },
           {
@@ -343,7 +343,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 24635915
+              "duration": 24224392
             }
           },
           {
@@ -356,7 +356,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 783965386
+              "duration": 614444804
             }
           },
           {
@@ -369,7 +369,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2374296304
+              "duration": 1862430797
             }
           },
           {
@@ -377,7 +377,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 145051229
+              "duration": 97941786
             }
           }
         ],
@@ -407,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 280901446
+              "duration": 306752342
             }
           },
           {
@@ -420,7 +420,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2576832133
+              "duration": 1862656896
             }
           },
           {
@@ -429,24 +429,24 @@
             "line": 5,
             "name": "\"Bob\" wants to create a new zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:8"
+              "location": "step-definitions/zaak.ts:9"
             },
             "result": {
               "status": "passed",
-              "duration": 8075582109
+              "duration": 8935942793
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
             "line": 6,
-            "name": "\"Bob\" sees the text: \"Case |\"",
+            "name": "\"Bob\" sees the text: \"Zaak |\"",
             "match": {
               "location": "step-definitions/common.ts:14"
             },
             "result": {
               "status": "passed",
-              "duration": 4321626076
+              "duration": 3841173781
             }
           },
           {
@@ -454,7 +454,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 90845077
+              "duration": 92214621
             }
           }
         ],
