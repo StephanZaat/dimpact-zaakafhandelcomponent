@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 327009017
+              "duration": 326102601
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3031947670
+              "duration": 3456368806
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 205985422,
+              "duration": 176007587,
               "error_message": "locator.click: Error: strict mode violation: getByLabel('Password') resolved to 2 elements:\n    1) <input tabindex=\"2\" id=\"password\" name=\"password\" type=…/> aka getByLabel('Password', { exact: true })\n    2) <button type=\"button\" data-password-toggle=\"\" aria-contr…>…</button> aka getByLabel('Show password')\n\nCall log:\n  - waiting for getByLabel('Password')\n\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/authentication.ts:17:44)"
             },
             "embeddings": [
@@ -68,7 +68,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 111540517
+              "duration": 86438913
             }
           }
         ],
@@ -87,7 +87,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 223474948
+              "duration": 199804861
             }
           },
           {
@@ -100,7 +100,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2740575851
+              "duration": 2941975136
             }
           },
           {
@@ -113,7 +113,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5087787040,
+              "duration": 5104711532,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -154,7 +154,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 88054926
+              "duration": 84614470
             }
           }
         ],
@@ -173,7 +173,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 204195179
+              "duration": 195722582
             }
           },
           {
@@ -186,7 +186,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2736281338
+              "duration": 2939086691
             }
           },
           {
@@ -199,7 +199,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 25742396
+              "duration": 27716714
             }
           },
           {
@@ -212,7 +212,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 143342689,
+              "duration": 165851003,
               "error_message": "locator.click: Error: strict mode violation: getByLabel('Password') resolved to 2 elements:\n    1) <input tabindex=\"2\" id=\"password\" name=\"password\" type=…/> aka getByLabel('Password', { exact: true })\n    2) <button type=\"button\" data-password-toggle=\"\" aria-contr…>…</button> aka getByLabel('Show password')\n\nCall log:\n  - waiting for getByLabel('Password')\n\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/authentication.ts:17:44)"
             },
             "embeddings": [
@@ -240,7 +240,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 80736039
+              "duration": 83536395
             }
           }
         ],
@@ -259,7 +259,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 209012273
+              "duration": 203631978
             }
           },
           {
@@ -272,7 +272,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2762312003
+              "duration": 2915255819
             }
           },
           {
@@ -285,7 +285,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 5097242128,
+              "duration": 5096491350,
               "error_message": "Error: function timed out, ensure the promise resolves within 5000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -326,7 +326,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 90472499
+              "duration": 69729917
             }
           }
         ],
@@ -345,7 +345,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 200263097
+              "duration": 200667414
             }
           },
           {
@@ -358,7 +358,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2734628633
+              "duration": 2925189470
             }
           },
           {
@@ -371,7 +371,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 24720675
+              "duration": 23292110
             }
           },
           {
@@ -384,7 +384,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 148370217,
+              "duration": 144806776,
               "error_message": "locator.click: Error: strict mode violation: getByLabel('Password') resolved to 2 elements:\n    1) <input tabindex=\"2\" id=\"password\" name=\"password\" type=…/> aka getByLabel('Password', { exact: true })\n    2) <button type=\"button\" data-password-toggle=\"\" aria-contr…>…</button> aka getByLabel('Show password')\n\nCall log:\n  - waiting for getByLabel('Password')\n\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/authentication.ts:17:44)"
             },
             "embeddings": [
@@ -412,7 +412,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 86032344
+              "duration": 70847377
             }
           }
         ],
@@ -442,7 +442,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 202621992
+              "duration": 191890091
             }
           },
           {
@@ -455,7 +455,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2725399451
+              "duration": 2942655112
             }
           },
           {
@@ -468,7 +468,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 30098727755,
+              "duration": 30092346257,
               "error_message": "locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for getByLabel('Zaak toevoegen')\n\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/zaak.ts:10:50)"
             },
             "embeddings": [
@@ -522,7 +522,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 87484974
+              "duration": 82400059
             }
           }
         ],
