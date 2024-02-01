@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 324315511
+              "duration": 319814981
             }
           },
           {
@@ -23,11 +23,11 @@
             "line": 4,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 9573405034
+              "duration": 5030475870
             }
           },
           {
@@ -36,11 +36,11 @@
             "line": 5,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:11"
+              "location": "step-definitions/authentication.ts:23"
             },
             "result": {
               "status": "passed",
-              "duration": 757834522
+              "duration": 663973945
             }
           },
           {
@@ -49,11 +49,11 @@
             "line": 6,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 2071247690
+              "duration": 1852656592
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 92387201
+              "duration": 110692929
             }
           }
         ],
@@ -80,7 +80,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 199060545
+              "duration": 205470744
             }
           },
           {
@@ -89,11 +89,11 @@
             "line": 9,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1993471044
+              "duration": 1612899127
             }
           },
           {
@@ -102,11 +102,11 @@
             "line": 10,
             "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
             "match": {
-              "location": "step-definitions/common.ts:38"
+              "location": "step-definitions/common.ts:50"
             },
             "result": {
               "status": "passed",
-              "duration": 427156865
+              "duration": 389343858
             }
           },
           {
@@ -115,11 +115,11 @@
             "line": 11,
             "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:58"
             },
             "result": {
               "status": "passed",
-              "duration": 860449446
+              "duration": 732878588
             }
           },
           {
@@ -128,11 +128,11 @@
             "line": 12,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 19224963
+              "duration": 23619688
             }
           },
           {
@@ -140,7 +140,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 97031438
+              "duration": 100001660
             }
           }
         ],
@@ -159,7 +159,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 200647024
+              "duration": 204121057
             }
           },
           {
@@ -168,11 +168,11 @@
             "line": 15,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 2019919656
+              "duration": 1629020838
             }
           },
           {
@@ -181,11 +181,11 @@
             "line": 16,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 22713336
+              "duration": 27021651
             }
           },
           {
@@ -194,11 +194,11 @@
             "line": 17,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:11"
+              "location": "step-definitions/authentication.ts:23"
             },
             "result": {
               "status": "passed",
-              "duration": 622393964
+              "duration": 585074583
             }
           },
           {
@@ -207,11 +207,11 @@
             "line": 18,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 2055353030
+              "duration": 1851148579
             }
           },
           {
@@ -219,7 +219,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 174806657
+              "duration": 97041238
             }
           }
         ],
@@ -238,7 +238,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 488124991
+              "duration": 207791486
             }
           },
           {
@@ -247,11 +247,11 @@
             "line": 21,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1993188019
+              "duration": 1616776431
             }
           },
           {
@@ -260,11 +260,11 @@
             "line": 22,
             "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
             "match": {
-              "location": "step-definitions/common.ts:38"
+              "location": "step-definitions/common.ts:50"
             },
             "result": {
               "status": "passed",
-              "duration": 442405393
+              "duration": 385361598
             }
           },
           {
@@ -273,11 +273,11 @@
             "line": 23,
             "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:58"
             },
             "result": {
               "status": "passed",
-              "duration": 860595177
+              "duration": 710781918
             }
           },
           {
@@ -286,11 +286,11 @@
             "line": 24,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 21346317
+              "duration": 20423011
             }
           },
           {
@@ -298,7 +298,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 96751913
+              "duration": 80673227
             }
           }
         ],
@@ -317,7 +317,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 204119942
+              "duration": 195741662
             }
           },
           {
@@ -326,11 +326,11 @@
             "line": 27,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 2040329582
+              "duration": 1630994813
             }
           },
           {
@@ -339,11 +339,11 @@
             "line": 28,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 24716228
+              "duration": 23571849
             }
           },
           {
@@ -352,11 +352,11 @@
             "line": 29,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:11"
+              "location": "step-definitions/authentication.ts:23"
             },
             "result": {
               "status": "passed",
-              "duration": 677569744
+              "duration": 537423653
             }
           },
           {
@@ -365,11 +365,11 @@
             "line": 30,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:34"
+              "location": "step-definitions/common.ts:46"
             },
             "result": {
               "status": "passed",
-              "duration": 2020186503
+              "duration": 1857792833
             }
           },
           {
@@ -377,7 +377,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 89490881
+              "duration": 103772888
             }
           }
         ],
@@ -407,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 198135605
+              "duration": 194905841
             }
           },
           {
@@ -416,11 +416,11 @@
             "line": 4,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1985874386
+              "duration": 1614625011
             }
           },
           {
@@ -429,11 +429,11 @@
             "line": 5,
             "name": "\"Bob\" wants to create a new zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:9"
+              "location": "step-definitions/zaak.ts:10"
             },
             "result": {
               "status": "passed",
-              "duration": 15770740145
+              "duration": 15017532721
             }
           },
           {
@@ -442,11 +442,11 @@
             "line": 6,
             "name": "\"Bob\" sees the created zaak with a delay",
             "match": {
-              "location": "step-definitions/zaak.ts:74"
+              "location": "step-definitions/zaak.ts:75"
             },
             "result": {
               "status": "passed",
-              "duration": 70001270360
+              "duration": 70000968556
             }
           },
           {
@@ -455,11 +455,11 @@
             "line": 7,
             "name": "\"Bob\" navigates to \"zac\" with path \"/zaken/werkvoorraad\" with delay after of 5000 ms",
             "match": {
-              "location": "step-definitions/common.ts:16"
+              "location": "step-definitions/common.ts:28"
             },
             "result": {
               "status": "passed",
-              "duration": 6777010760
+              "duration": 6476879241
             }
           },
           {
@@ -468,11 +468,11 @@
             "line": 8,
             "name": "\"Bob\" sees the created zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:67"
+              "location": "step-definitions/zaak.ts:68"
             },
             "result": {
               "status": "passed",
-              "duration": 216923
+              "duration": 233216
             }
           },
           {
@@ -480,7 +480,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 82474378
+              "duration": 74700045
             }
           }
         ],
@@ -494,5 +494,146 @@
     "name": "Login",
     "tags": [],
     "uri": "features/2-zaken-toevoegen.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "resident-submits-form-in-open-forms;resident-fills-in-indienen-aansprakelijkheid-behandelen-open-forms-form",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Resident fills in indienen-aansprakelijkheid-behandelen open-forms form",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 204357460
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "Resident \"Alice\" fills in the indienen-aansprakelijkheid-behandelen open-forms form",
+            "match": {
+              "location": "step-definitions/open-forms.ts:10"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 88866439,
+              "error_message": "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n  - navigating to \"undefined/indienen-aansprakelijkstelling-door-derden-behandelen-2/startpagina\", waiting until \"load\"\n\n    at CustomWorld.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/step-definitions/open-forms.ts:16:21)"
+            },
+            "embeddings": [
+              {
+                "data": "iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAYAAADPfd1WAAAAAXNSR0IArs4c6QAAFIJJREFUeJzt2EENACAQwDDAv+dDBSFZWgV7b8/MLAAAAAAg6fwOAAAAAADeMQABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAMAMQAAAAAMIMQAAAAAAIMwABAAAAIMwABAAAAIAwAxAAAAAAwgxAAAAAAAgzAAEAAAAgzAAEAAAAgDADEAAAAADCDEAAAAAACDMAAQAAACDMAAQAAACAsAvDJgmc+KaOVQAAAABJRU5ErkJggg==",
+                "mime_type": "image/png"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Resident \"Alice\" submits the open-forms form",
+            "match": {
+              "location": "step-definitions/open-forms.ts:102"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Employee \"Bob\" opens zac",
+            "match": {
+              "location": "step-definitions/common.ts:9"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Employee \"Bob\" logs in to zac",
+            "match": {
+              "location": "step-definitions/authentication.ts:11"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Employee \"Bob\" navigates to \"/zaken/werkvoorraad\"",
+            "match": {
+              "location": "step-definitions/common.ts:15"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Employee \"Bob\" clicks on the first zaak in the zaak-werkvoorraad with delay",
+            "match": {
+              "location": "step-definitions/zaak.ts:83"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Employee \"Bob\" sees the zaak that \"Alice\" created in open-forms",
+            "match": {
+              "location": "step-definitions/zaak.ts:89"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 39756649
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@live-env-only",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "resident-submits-form-in-open-forms",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Resident submits form in open-forms",
+    "tags": [],
+    "uri": "features/3-open-formulieren.feature"
   }
 ]
