@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 374943052
+              "duration": 303956291
             }
           },
           {
@@ -23,11 +23,11 @@
             "line": 4,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 3027796779
+              "duration": 2166087529
             }
           },
           {
@@ -36,11 +36,11 @@
             "line": 5,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:32"
+              "location": "step-definitions/authentication.ts:36"
             },
             "result": {
               "status": "passed",
-              "duration": 851722242
+              "duration": 784948664
             }
           },
           {
@@ -49,11 +49,11 @@
             "line": 6,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 2305907630
+              "duration": 1838961424
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 118787800
+              "duration": 94651400
             }
           }
         ],
@@ -80,7 +80,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 206642758
+              "duration": 196895186
             }
           },
           {
@@ -89,11 +89,11 @@
             "line": 9,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2463258023
+              "duration": 1949115403
             }
           },
           {
@@ -102,11 +102,11 @@
             "line": 10,
             "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
             "match": {
-              "location": "step-definitions/common.ts:50"
+              "location": "step-definitions/common.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 462602046
+              "duration": 446377668
             }
           },
           {
@@ -115,11 +115,11 @@
             "line": 11,
             "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
-              "location": "step-definitions/common.ts:58"
+              "location": "step-definitions/common.ts:68"
             },
             "result": {
               "status": "passed",
-              "duration": 1297448561
+              "duration": 1269918756
             }
           },
           {
@@ -128,11 +128,11 @@
             "line": 12,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 19468572
+              "duration": 19685108
             }
           },
           {
@@ -140,7 +140,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 86870708
+              "duration": 97134598
             }
           }
         ],
@@ -159,7 +159,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 196340533
+              "duration": 196084098
             }
           },
           {
@@ -168,11 +168,11 @@
             "line": 15,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2654909112
+              "duration": 2022613815
             }
           },
           {
@@ -181,11 +181,11 @@
             "line": 16,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 69277236
+              "duration": 22794531
             }
           },
           {
@@ -194,11 +194,11 @@
             "line": 17,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:32"
+              "location": "step-definitions/authentication.ts:36"
             },
             "result": {
               "status": "passed",
-              "duration": 792445128
+              "duration": 680931325
             }
           },
           {
@@ -207,11 +207,11 @@
             "line": 18,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 2305835303
+              "duration": 1924557663
             }
           },
           {
@@ -219,7 +219,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 81534591
+              "duration": 104865125
             }
           }
         ],
@@ -238,7 +238,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 194535948
+              "duration": 195092040
             }
           },
           {
@@ -247,11 +247,11 @@
             "line": 21,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2491107582
+              "duration": 1929676198
             }
           },
           {
@@ -260,11 +260,11 @@
             "line": 22,
             "name": "\"Bob\" clicks on element with accessabillity label: \"Gebruikers profiel\"",
             "match": {
-              "location": "step-definitions/common.ts:50"
+              "location": "step-definitions/common.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 386277044
+              "duration": 434205359
             }
           },
           {
@@ -273,11 +273,11 @@
             "line": 23,
             "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
             "match": {
-              "location": "step-definitions/common.ts:58"
+              "location": "step-definitions/common.ts:68"
             },
             "result": {
               "status": "passed",
-              "duration": 1736475896
+              "duration": 1275085961
             }
           },
           {
@@ -286,11 +286,11 @@
             "line": 24,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 20462004
+              "duration": 19121597
             }
           },
           {
@@ -298,7 +298,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 91694618
+              "duration": 89893478
             }
           }
         ],
@@ -317,7 +317,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 199753307
+              "duration": 202494209
             }
           },
           {
@@ -326,11 +326,11 @@
             "line": 27,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2655416843
+              "duration": 2082880021
             }
           },
           {
@@ -339,11 +339,11 @@
             "line": 28,
             "name": "\"Bob\" sees the text: \"Sign in to your account\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 21301209
+              "duration": 24125902
             }
           },
           {
@@ -352,11 +352,11 @@
             "line": 29,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:32"
+              "location": "step-definitions/authentication.ts:36"
             },
             "result": {
               "status": "passed",
-              "duration": 805005242
+              "duration": 743355853
             }
           },
           {
@@ -365,11 +365,11 @@
             "line": 30,
             "name": "\"Bob\" sees the text: \"Dashboard\"",
             "match": {
-              "location": "step-definitions/common.ts:46"
+              "location": "step-definitions/common.ts:56"
             },
             "result": {
               "status": "passed",
-              "duration": 2305723021
+              "duration": 1921927676
             }
           },
           {
@@ -377,7 +377,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 88455902
+              "duration": 103198084
             }
           }
         ],
@@ -407,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 197907456
+              "duration": 209122159
             }
           },
           {
@@ -416,11 +416,11 @@
             "line": 4,
             "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
             "match": {
-              "location": "step-definitions/common.ts:21"
+              "location": "step-definitions/common.ts:31"
             },
             "result": {
               "status": "passed",
-              "duration": 2377902504
+              "duration": 1937799237
             }
           },
           {
@@ -433,7 +433,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16807194810
+              "duration": 16381518289
             }
           },
           {
@@ -446,7 +446,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 70002036133
+              "duration": 70001154630
             }
           },
           {
@@ -455,11 +455,11 @@
             "line": 7,
             "name": "\"Bob\" navigates to \"zac\" with path \"/zaken/werkvoorraad\" with delay after of 5000 ms",
             "match": {
-              "location": "step-definitions/common.ts:28"
+              "location": "step-definitions/common.ts:38"
             },
             "result": {
               "status": "passed",
-              "duration": 7442006560
+              "duration": 6921494818
             }
           },
           {
@@ -472,7 +472,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 332597
+              "duration": 318153
             }
           },
           {
@@ -480,7 +480,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 66287853
+              "duration": 75457908
             }
           }
         ],
@@ -499,7 +499,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 200555842
+              "duration": 217934082
             }
           },
           {
@@ -512,7 +512,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4467975323
+              "duration": 4015813533
             }
           },
           {
@@ -525,7 +525,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14989672805
+              "duration": 14377033017
             }
           },
           {
@@ -534,11 +534,11 @@
             "line": 13,
             "name": "Employee \"Bob\" logs out of zac",
             "match": {
-              "location": "step-definitions/authentication.ts:24"
+              "location": "step-definitions/authentication.ts:28"
             },
             "result": {
               "status": "passed",
-              "duration": 1100541842
+              "duration": 918781874
             }
           },
           {
@@ -547,11 +547,11 @@
             "line": 14,
             "name": "Employee \"Oscar\" logs in to zac",
             "match": {
-              "location": "step-definitions/authentication.ts:10"
+              "location": "step-definitions/authentication.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 1440978952
+              "duration": 1202805460
             }
           },
           {
@@ -564,7 +564,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1369717422
+              "duration": 1205863969
             }
           },
           {
@@ -577,7 +577,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3544842827
+              "duration": 3208284907
             }
           },
           {
@@ -590,7 +590,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1806243
+              "duration": 1288305
             }
           },
           {
@@ -598,7 +598,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 81841343
+              "duration": 81314317
             }
           }
         ],
@@ -628,7 +628,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 196177934
+              "duration": 201615381
             }
           },
           {
@@ -641,7 +641,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 26342176082
+              "duration": 23297976819
             }
           },
           {
@@ -654,7 +654,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 50194848
+              "duration": 50676373
             }
           },
           {
@@ -663,11 +663,11 @@
             "line": 7,
             "name": "Employee \"Bob\" opens zac",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:10"
             },
             "result": {
               "status": "passed",
-              "duration": 2629008943
+              "duration": 2040888230
             }
           },
           {
@@ -676,11 +676,11 @@
             "line": 8,
             "name": "Employee \"Bob\" navigates to \"/zaken/werkvoorraad\"",
             "match": {
-              "location": "step-definitions/common.ts:15"
+              "location": "step-definitions/common.ts:25"
             },
             "result": {
               "status": "passed",
-              "duration": 1276471232
+              "duration": 1010429366
             }
           },
           {
@@ -693,7 +693,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 90081025428,
+              "duration": 90086129454,
               "error_message": "Error: function timed out, ensure the promise resolves within 90000 milliseconds\n    at Timeout.<anonymous> (/home/runner/work/dimpact-zaakafhandelcomponent/dimpact-zaakafhandelcomponent/src/e2e/node_modules/@cucumber/cucumber/src/time.ts:52:14)\n    at listOnTimeout (node:internal/timers:569:17)\n    at processTimers (node:internal/timers:512:7)"
             },
             "embeddings": [
@@ -721,7 +721,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 91387871
+              "duration": 74200049
             }
           }
         ],
