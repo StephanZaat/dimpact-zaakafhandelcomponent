@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 351586858
+              "duration": 399178244
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4962854181
+              "duration": 2531009089
             }
           },
           {
@@ -36,11 +36,11 @@
             "line": 5,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:23"
+              "location": "step-definitions/authentication.ts:34"
             },
             "result": {
               "status": "passed",
-              "duration": 722392937
+              "duration": 722112171
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1834497335
+              "duration": 1998196527
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 123380514
+              "duration": 130544365
             }
           }
         ],
@@ -80,7 +80,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 237309866
+              "duration": 210286240
             }
           },
           {
@@ -93,7 +93,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1693759099
+              "duration": 1963858269
             }
           },
           {
@@ -106,7 +106,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 507732667
+              "duration": 441452659
             }
           },
           {
@@ -119,7 +119,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 627578693
+              "duration": 955974537
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 28962561
+              "duration": 21706033
             }
           },
           {
@@ -140,7 +140,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 116289502
+              "duration": 99248156
             }
           }
         ],
@@ -159,7 +159,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 234826864
+              "duration": 196777542
             }
           },
           {
@@ -172,7 +172,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1675902190
+              "duration": 2038620514
             }
           },
           {
@@ -185,7 +185,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30939584
+              "duration": 22941433
             }
           },
           {
@@ -194,11 +194,11 @@
             "line": 17,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:23"
+              "location": "step-definitions/authentication.ts:34"
             },
             "result": {
               "status": "passed",
-              "duration": 585370977
+              "duration": 628168902
             }
           },
           {
@@ -211,7 +211,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1866637258
+              "duration": 1982205343
             }
           },
           {
@@ -219,7 +219,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 104729592
+              "duration": 112764322
             }
           }
         ],
@@ -238,7 +238,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 230200351
+              "duration": 201125499
             }
           },
           {
@@ -251,7 +251,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1674975811
+              "duration": 1805766018
             }
           },
           {
@@ -264,7 +264,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 512655474
+              "duration": 372240980
             }
           },
           {
@@ -277,7 +277,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 636678102
+              "duration": 962111123
             }
           },
           {
@@ -290,7 +290,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 25944043
+              "duration": 18931204
             }
           },
           {
@@ -298,7 +298,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 91957568
+              "duration": 99211961
             }
           }
         ],
@@ -317,7 +317,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 230696896
+              "duration": 198548642
             }
           },
           {
@@ -330,7 +330,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1696402694
+              "duration": 2023290215
             }
           },
           {
@@ -343,7 +343,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 28389794
+              "duration": 23808374
             }
           },
           {
@@ -352,11 +352,11 @@
             "line": 29,
             "name": "\"Bob\" logs in",
             "match": {
-              "location": "step-definitions/authentication.ts:23"
+              "location": "step-definitions/authentication.ts:34"
             },
             "result": {
               "status": "passed",
-              "duration": 553948906
+              "duration": 630657843
             }
           },
           {
@@ -369,7 +369,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1810783211
+              "duration": 1972595713
             }
           },
           {
@@ -377,7 +377,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 130922411
+              "duration": 149418874
             }
           }
         ],
@@ -397,7 +397,7 @@
     "elements": [
       {
         "description": "",
-        "id": "login;bob-wants-to-create-a-new-zaak",
+        "id": "zaak;bob-wants-to-create-a-new-zaak",
         "keyword": "Scenario",
         "line": 3,
         "name": "Bob wants to create a new zaak",
@@ -407,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 224539943
+              "duration": 302155573
             }
           },
           {
@@ -420,7 +420,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3353923573
+              "duration": 2186330515
             }
           },
           {
@@ -429,11 +429,11 @@
             "line": 5,
             "name": "\"Bob\" wants to create a new zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:10"
+              "location": "step-definitions/zaak.ts:59"
             },
             "result": {
               "status": "passed",
-              "duration": 15091064311
+              "duration": 15942550992
             }
           },
           {
@@ -442,11 +442,11 @@
             "line": 6,
             "name": "\"Bob\" sees the created zaak with a delay",
             "match": {
-              "location": "step-definitions/zaak.ts:75"
+              "location": "step-definitions/zaak.ts:157"
             },
             "result": {
               "status": "passed",
-              "duration": 70002273698
+              "duration": 70001581737
             }
           },
           {
@@ -459,7 +459,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6644203776
+              "duration": 6968993014
             }
           },
           {
@@ -468,11 +468,11 @@
             "line": 8,
             "name": "\"Bob\" sees the created zaak",
             "match": {
-              "location": "step-definitions/zaak.ts:68"
+              "location": "step-definitions/zaak.ts:150"
             },
             "result": {
               "status": "passed",
-              "duration": 425380
+              "duration": 371123
             }
           },
           {
@@ -480,7 +480,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 93573657
+              "duration": 92361792
             }
           }
         ],
@@ -488,10 +488,10 @@
         "type": "scenario"
       }
     ],
-    "id": "login",
+    "id": "zaak",
     "line": 1,
     "keyword": "Feature",
-    "name": "Login",
+    "name": "Zaak",
     "tags": [],
     "uri": "features/2-zaken-toevoegen.feature"
   },
@@ -510,7 +510,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 232473439
+              "duration": 199957404
             }
           },
           {
@@ -523,7 +523,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 23376988062
+              "duration": 24214244619
             }
           },
           {
@@ -536,7 +536,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 52742143
+              "duration": 50862353
             }
           },
           {
@@ -545,11 +545,11 @@
             "line": 7,
             "name": "Employee \"Bob\" opens zac",
             "match": {
-              "location": "step-definitions/common.ts:9"
+              "location": "step-definitions/common.ts:10"
             },
             "result": {
               "status": "passed",
-              "duration": 1670363579
+              "duration": 1955816382
             }
           },
           {
@@ -562,7 +562,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 961521960
+              "duration": 1161185986
             }
           },
           {
@@ -571,11 +571,11 @@
             "line": 9,
             "name": "Employee \"Bob\" clicks on the first zaak in the zaak-werkvoorraad with delay",
             "match": {
-              "location": "step-definitions/zaak.ts:83"
+              "location": "step-definitions/zaak.ts:165"
             },
             "result": {
               "status": "passed",
-              "duration": 73541267154
+              "duration": 73727518820
             }
           },
           {
@@ -584,11 +584,11 @@
             "line": 10,
             "name": "Employee \"Bob\" sees the zaak that \"Alice\" created in open-forms",
             "match": {
-              "location": "step-definitions/zaak.ts:89"
+              "location": "step-definitions/zaak.ts:171"
             },
             "result": {
               "status": "passed",
-              "duration": 4546612903
+              "duration": 4106385607
             }
           },
           {
@@ -596,7 +596,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 93832504
+              "duration": 150308198
             }
           }
         ],
@@ -615,5 +615,134 @@
     "name": "Resident submits form in open-forms",
     "tags": [],
     "uri": "features/3-open-formulieren.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "taken;employee-\"bob\"-does-not-have-enough-information-to-finish-intake-and-assigns-a-task-to-employee-\"oscar\"",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Employee \"Bob\" does not have enough information to finish Intake and assigns a task to Employee \"Oscar\"",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 205383430
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Employee \"Bob\" is on the newly created zaak with status \"Intake\"",
+            "match": {
+              "location": "step-definitions/zaak.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3955933576
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Employee \"Bob\" does not have enough information to finish Intake and assigns a task to Employee \"Oscar\"",
+            "match": {
+              "location": "step-definitions/zaak.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14365648988
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Employee \"Bob\" logs out of zac",
+            "match": {
+              "location": "step-definitions/authentication.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 907194050
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Employee \"Oscar\" logs in to zac",
+            "match": {
+              "location": "step-definitions/authentication.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1176838910
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Employee \"Oscar\" sees the task assigned to Employee \"Bob\" in my task list",
+            "match": {
+              "location": "step-definitions/zaak.ts:133"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1205350878
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Employee \"Oscar\" is on the newly created zaak with status \"Intake\"",
+            "match": {
+              "location": "step-definitions/zaak.ts:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3208485305
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Employee \"Oscar\" sees the task assigned by Employee \"Bob\" in the newly created zaak tasks list",
+            "match": {
+              "location": "step-definitions/zaak.ts:117"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1045649
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 99737002
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "taken",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Taken",
+    "tags": [],
+    "uri": "features/4-taken-toevoegen.feature"
   }
 ]
