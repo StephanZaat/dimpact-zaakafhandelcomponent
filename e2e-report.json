@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 256874753
+              "duration": 230191534
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1895090772
+              "duration": 2226676153
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 551989714
+              "duration": 672011750
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1804164721
+              "duration": 1984179435
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 126851255
+              "duration": 144420262
             }
           }
         ],
@@ -91,7 +91,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 136231084
+              "duration": 141516453
             }
           },
           {
@@ -104,7 +104,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1617464719
+              "duration": 1962895213
             }
           },
           {
@@ -117,7 +117,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 16983169601
+              "duration": 17469476397
             }
           },
           {
@@ -130,7 +130,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 70001975711
+              "duration": 70002082361
             }
           },
           {
@@ -143,7 +143,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6627297588
+              "duration": 6927094858
             }
           },
           {
@@ -156,7 +156,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 275471
+              "duration": 357294
             }
           },
           {
@@ -164,7 +164,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 693266909
+              "duration": 768482536
             }
           }
         ],
@@ -194,7 +194,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 147759050
+              "duration": 140018647
             }
           },
           {
@@ -207,7 +207,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 19432716213
+              "duration": 22344243741
             }
           },
           {
@@ -220,7 +220,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 35954089
+              "duration": 49917145
             }
           },
           {
@@ -233,7 +233,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2020217194
+              "duration": 1966126203
             }
           },
           {
@@ -246,7 +246,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1262828177
+              "duration": 1031106464
             }
           },
           {
@@ -259,7 +259,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 73856722623
+              "duration": 74452011824
             }
           },
           {
@@ -272,7 +272,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4434618449
+              "duration": 4903302412
             }
           },
           {
@@ -280,7 +280,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 133919588
+              "duration": 186309845
             }
           }
         ],
@@ -315,59 +315,59 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 169542427
+              "duration": 145721970
             }
           },
           {
             "arguments": [],
             "keyword": "Given ",
             "line": 4,
-            "name": "Employee \"Oscar\" is on the newly created zaak with status \"Intake\"",
+            "name": "Employee \"Bob\" is on the newly created zaak with status \"Intake\"",
             "match": {
               "location": "step-definitions/zaak.ts:27"
             },
             "result": {
               "status": "passed",
-              "duration": 3635856844
+              "duration": 3930870115
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 5,
-            "name": "Employee \"Oscar\" clicks on Create Document for zaak",
+            "name": "Employee \"Bob\" clicks on Create Document for zaak",
             "match": {
               "location": "step-definitions/zaak.ts:161"
             },
             "result": {
               "status": "passed",
-              "duration": 4705067743
+              "duration": 4880760101
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
             "line": 6,
-            "name": "Employee \"Oscar\" closes the SmartDocuments tab",
+            "name": "Employee \"Bob\" closes the SmartDocuments tab",
             "match": {
               "location": "step-definitions/zaak.ts:169"
             },
             "result": {
               "status": "passed",
-              "duration": 3907777
+              "duration": 7691399
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
             "line": 7,
-            "name": "Employee \"Oscar\" should not get an error",
+            "name": "Employee \"Bob\" should not get an error",
             "match": {
               "location": "step-definitions/zaak.ts:174"
             },
             "result": {
               "status": "passed",
-              "duration": 236579
+              "duration": 392530
             }
           },
           {
@@ -375,7 +375,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 278281594
+              "duration": 286969366
             }
           }
         ],
@@ -405,7 +405,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 148404313
+              "duration": 148899800
             }
           },
           {
@@ -418,7 +418,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3612033244
+              "duration": 3944325879
             }
           },
           {
@@ -431,7 +431,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14808214075
+              "duration": 15301036147
             }
           },
           {
@@ -444,7 +444,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 909008534
+              "duration": 1002276257
             }
           },
           {
@@ -457,7 +457,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 926161395
+              "duration": 1097201337
             }
           },
           {
@@ -470,7 +470,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 886695775
+              "duration": 946025004
             }
           },
           {
@@ -483,7 +483,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2983434920
+              "duration": 3180171961
             }
           },
           {
@@ -496,7 +496,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 735106
+              "duration": 659134
             }
           },
           {
@@ -504,7 +504,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 118695990
+              "duration": 111287035
             }
           }
         ],
