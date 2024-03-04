@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 230191534
+              "duration": 277595703
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2226676153
+              "duration": 3329631811
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 672011750
+              "duration": 915183432
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1984179435
+              "duration": 2811651808
             }
           },
           {
@@ -61,7 +61,323 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 144420262
+              "duration": 174972834
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-wants-to-log-out-of-the-application-after-being-logged-in",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Bob wants to log out of the application after being logged in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 150154472
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2831636540
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "\"Bob\" clicks on element with accessibility label: \"Gebruikers profiel\"",
+            "match": {
+              "location": "step-definitions/common.ts:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 499533885
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
+            "match": {
+              "location": "step-definitions/common.ts:60"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1761298585
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22735636
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 223767299
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-logs-back-in",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Bob logs back in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 142212947
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2925590109
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28064471
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "\"Bob\" logs in",
+            "match": {
+              "location": "step-definitions/authentication.ts:37"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 797849022
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "\"Bob\" sees the text: \"Dashboard\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2819495493
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 126353741
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-wants-to-log-out-of-the-application-after-being-logged-in",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "Bob wants to log out of the application after being logged in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 740508638
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 21,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2886848873
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "\"Bob\" clicks on element with accessibility label: \"Gebruikers profiel\"",
+            "match": {
+              "location": "step-definitions/common.ts:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 465872591
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 23,
+            "name": "\"Bob\" clicks on element with text: \"Uitloggen\"",
+            "match": {
+              "location": "step-definitions/common.ts:60"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1171311999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 24,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22144581
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 141587027
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login;bob-logs-back-in",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "Bob logs back in",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 151309231
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/\"",
+            "match": {
+              "location": "step-definitions/common.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2919446383
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "\"Bob\" sees the text: \"Sign in to your account\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 26182221
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "\"Bob\" logs in",
+            "match": {
+              "location": "step-definitions/authentication.ts:37"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 795498715
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "\"Bob\" sees the text: \"Dashboard\"",
+            "match": {
+              "location": "step-definitions/common.ts:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2811894449
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 131399413
             }
           }
         ],
@@ -91,7 +407,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 141516453
+              "duration": 148345657
             }
           },
           {
@@ -104,7 +420,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1962895213
+              "duration": 2685391955
             }
           },
           {
@@ -117,7 +433,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17469476397
+              "duration": 17467828529
             }
           },
           {
@@ -130,7 +446,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 70002082361
+              "duration": 70002034065
             }
           },
           {
@@ -143,7 +459,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6927094858
+              "duration": 7840192688
             }
           },
           {
@@ -156,7 +472,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 357294
+              "duration": 276495
             }
           },
           {
@@ -164,7 +480,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 768482536
+              "duration": 274632123
             }
           }
         ],
@@ -194,7 +510,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 140018647
+              "duration": 152445160
             }
           },
           {
@@ -207,7 +523,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 22344243741
+              "duration": 25485056779
             }
           },
           {
@@ -220,7 +536,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 49917145
+              "duration": 37014247
             }
           },
           {
@@ -233,7 +549,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1966126203
+              "duration": 2873001935
             }
           },
           {
@@ -246,7 +562,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1031106464
+              "duration": 1743376317
             }
           },
           {
@@ -255,11 +571,11 @@
             "line": 9,
             "name": "Employee \"Bob\" clicks on the first zaak in the zaak-werkvoorraad with delay",
             "match": {
-              "location": "step-definitions/zaak.ts:179"
+              "location": "step-definitions/zaak.ts:178"
             },
             "result": {
               "status": "passed",
-              "duration": 74452011824
+              "duration": 75524039111
             }
           },
           {
@@ -268,11 +584,11 @@
             "line": 10,
             "name": "Employee \"Bob\" sees the zaak that \"Alice\" created in open-forms",
             "match": {
-              "location": "step-definitions/zaak.ts:185"
+              "location": "step-definitions/zaak.ts:184"
             },
             "result": {
               "status": "passed",
-              "duration": 4903302412
+              "duration": 5252279686
             }
           },
           {
@@ -280,7 +596,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 186309845
+              "duration": 248619263
             }
           }
         ],
@@ -315,7 +631,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 145721970
+              "duration": 149418494
             }
           },
           {
@@ -328,7 +644,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3930870115
+              "duration": 4848280121
             }
           },
           {
@@ -341,7 +657,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4880760101
+              "duration": 6456281682
             }
           },
           {
@@ -350,11 +666,11 @@
             "line": 6,
             "name": "Employee \"Bob\" closes the SmartDocuments tab",
             "match": {
-              "location": "step-definitions/zaak.ts:169"
+              "location": "step-definitions/zaak.ts:168"
             },
             "result": {
               "status": "passed",
-              "duration": 7691399
+              "duration": 4923844
             }
           },
           {
@@ -363,11 +679,11 @@
             "line": 7,
             "name": "Employee \"Bob\" should not get an error",
             "match": {
-              "location": "step-definitions/zaak.ts:174"
+              "location": "step-definitions/zaak.ts:173"
             },
             "result": {
               "status": "passed",
-              "duration": 392530
+              "duration": 292456
             }
           },
           {
@@ -375,7 +691,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 286969366
+              "duration": 381226121
             }
           }
         ],
@@ -395,6 +711,96 @@
     "elements": [
       {
         "description": "",
+        "id": "external-systems;employee-wants-to-create-a-new-document-for-a-zaak",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Employee wants to create a new document for a zaak",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 146663538
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Employee \"Oscar\" is on the newly created zaak with status \"Intake\"",
+            "match": {
+              "location": "step-definitions/zaak.ts:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4837976178
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "Employee \"Oscar\" clicks on Create Document for zaak",
+            "match": {
+              "location": "step-definitions/zaak.ts:161"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6166813667
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Employee \"Oscar\" closes the SmartDocuments tab",
+            "match": {
+              "location": "step-definitions/zaak.ts:168"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6272794
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Employee \"Oscar\" should not get an error",
+            "match": {
+              "location": "step-definitions/zaak.ts:173"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 243424
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 412610222
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "external-systems",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "External Systems",
+    "tags": [],
+    "uri": "features/5-external-systems.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
         "id": "taken;employee-\"bob\"-does-not-have-enough-information-to-finish-intake-and-assigns-a-task-to-employee-\"oscar\"",
         "keyword": "Scenario",
         "line": 3,
@@ -405,7 +811,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 148899800
+              "duration": 159949709
             }
           },
           {
@@ -418,7 +824,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3944325879
+              "duration": 4901871280
             }
           },
           {
@@ -431,7 +837,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15301036147
+              "duration": 15290686687
             }
           },
           {
@@ -444,7 +850,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1002276257
+              "duration": 1338449339
             }
           },
           {
@@ -457,7 +863,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1097201337
+              "duration": 1501238074
             }
           },
           {
@@ -470,7 +876,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 946025004
+              "duration": 3156809831
             }
           },
           {
@@ -483,7 +889,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3180171961
+              "duration": 3828469445
             }
           },
           {
@@ -496,7 +902,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 659134
+              "duration": 1618550
             }
           },
           {
@@ -504,7 +910,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 111287035
+              "duration": 131030262
             }
           }
         ],
