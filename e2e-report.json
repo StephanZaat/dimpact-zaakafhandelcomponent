@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 243365480
+              "duration": 241168340
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2966199570
+              "duration": 3323997598
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 803452463
+              "duration": 941709961
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2372061912
+              "duration": 2342832959
             }
           },
           {
@@ -61,7 +61,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 186625375
+              "duration": 170904886
             }
           }
         ],
@@ -91,7 +91,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 139984007
+              "duration": 144881607
             }
           },
           {
@@ -104,7 +104,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2395109796
+              "duration": 2854401327
             }
           },
           {
@@ -117,7 +117,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18106138382
+              "duration": 18027223574
             }
           },
           {
@@ -130,7 +130,33 @@
             },
             "result": {
               "status": "passed",
-              "duration": 70001023552
+              "duration": 70001669151
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "\"Bob\" navigates to \"zac\" with path \"/zaken/werkvoorraad\" with delay after of 5000 ms",
+            "match": {
+              "location": "step-definitions/common.ts:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7828184878
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "\"Bob\" sees the created zaak",
+            "match": {
+              "location": "step-definitions/zaak.ts:147"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 291284
             }
           },
           {
@@ -138,7 +164,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 5648625873
+              "duration": 269424274
             }
           }
         ],
@@ -158,6 +184,127 @@
     "elements": [
       {
         "description": "",
+        "id": "resident-submits-form-in-open-forms;resident-fills-in-indienen-aansprakelijkheid-behandelen-open-forms-form",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Resident fills in indienen-aansprakelijkheid-behandelen open-forms form",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 153270677
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "Resident \"Alice\" fills in the indienen-aansprakelijkheid-behandelen open-forms form",
+            "match": {
+              "location": "step-definitions/open-forms.ts:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25883188531
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Resident \"Alice\" submits the open-forms form",
+            "match": {
+              "location": "step-definitions/open-forms.ts:102"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 53252749
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Employee \"Bob\" opens zac",
+            "match": {
+              "location": "step-definitions/common.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2989260210
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Employee \"Bob\" navigates to \"/zaken/werkvoorraad\"",
+            "match": {
+              "location": "step-definitions/common.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1739785888
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Employee \"Bob\" clicks on the first zaak in the zaak-werkvoorraad with delay",
+            "match": {
+              "location": "step-definitions/zaak.ts:179"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 75629987497
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "Employee \"Bob\" sees the zaak that \"Alice\" created in open-forms",
+            "match": {
+              "location": "step-definitions/zaak.ts:185"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5085701827
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 209588373
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@live-env-only",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "resident-submits-form-in-open-forms",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Resident submits form in open-forms",
+    "tags": [],
+    "uri": "features/3-open-formulieren.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
         "id": "external-systems;employee-wants-to-create-a-new-document-for-a-zaak",
         "keyword": "Scenario",
         "line": 3,
@@ -168,7 +315,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 154189832
+              "duration": 158830877
             }
           },
           {
@@ -181,7 +328,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 4507274420
+              "duration": 4790896413
             }
           },
           {
@@ -194,7 +341,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 5824618870
+              "duration": 6248403617
             }
           },
           {
@@ -207,7 +354,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6777284
+              "duration": 5706067
             }
           },
           {
@@ -220,7 +367,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 274560
+              "duration": 398753
             }
           },
           {
@@ -228,7 +375,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 312939478
+              "duration": 425765320
             }
           }
         ],
