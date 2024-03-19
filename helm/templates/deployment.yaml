@@ -77,22 +77,22 @@ spec:
                 name: {{ include "zaakafhandelcomponent.fullname" . }}
             - secretRef:
                 name: {{ include "zaakafhandelcomponent.fullname" . }}
-          {{- with .Values.nodeSelector }}
-          nodeSelector:
-            {{- toYaml . | nindent 12 }}
-          {{- end }}
-          {{- with .Values.affinity }}
-          affinity:
-            {{- toYaml . | nindent 12 }}
-          {{- end }}
-          {{- with .Values.tolerations }}
-          tolerations:
-            {{- toYaml . | nindent 12 }}
-          {{- end }}
-          {{- if .Values.remoteDebug }}
           command:
             - java
             - -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:8787
             - -jar
             - zaakafhandelcomponent.jar
           {{- end }}
+      {{- with .Values.nodeSelector }}
+      nodeSelector:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      {{- with .Values.affinity }}
+      affinity:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      {{- with .Values.tolerations }}
+      tolerations:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      {{- if .Values.remoteDebug }}
