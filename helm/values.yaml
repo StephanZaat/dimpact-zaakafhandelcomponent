@@ -102,11 +102,23 @@ smartDocuments:
   authentication: ""
   fixedUserName: ""
 
-# Schedule of the indexeren job in CRON job format
-indexerenSchedule: "*/1 * * * *"
+indexeren:
+  # Schedule of the indexeren job in CRON job format
+  schedule: "*/1 * * * *"
+  # Image to use for the indexeren job
+  image:
+    repository: curlimages/curl
+    pullPolicy: IfNotPresent
+    tag: ""
 
-# Schedule of the signaleren job in CRON job format
-signalerenSchedule: "0 2 * * *"
+signaleren:
+  # Schedule of the signaleren job in CRON job format
+  schedule: "0 2 * * *"
+  # Image to use for the signaleren job
+  image:
+    repository: curlimages/curl
+    pullPolicy: IfNotPresent
+    tag: ""
 
 # Maximum size (in Mega Bytes) of files that can be uploaded.
 maxFileSizeMB: 80
@@ -199,6 +211,8 @@ nodeSelector: { }
 tolerations: [ ]
 
 affinity: { }
+
+
 
 # opa url should be the url the openpolicyagent can be reached on from ZAC ( for example: http://release-opa.default.svc.cluster.local )
 opa:

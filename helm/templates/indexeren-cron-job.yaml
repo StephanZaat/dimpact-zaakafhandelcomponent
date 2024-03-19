@@ -5,7 +5,7 @@ metadata:
   labels:
     {{- include "zaakafhandelcomponent.labels" . | nindent 4 }}
 spec:
-  schedule: {{ .Values.indexerenSchedule | quote }}
+  schedule: {{ .Values.indexeren.schedule | quote }}
   concurrencyPolicy: Forbid
   jobTemplate:
     spec:
@@ -14,7 +14,7 @@ spec:
           restartPolicy: Never
           containers:
             - name: {{ include "zaakafhandelcomponent.fullname" . }}-indexeren
-              image: curlimages/curl
+              image: "{{ .Values.indexeren.image.repository }}:{{ .Values.indexeren.image.tag | default .Chart.AppVersion }}"
               imagePullPolicy: IfNotPresent
               args:
                 - -s
