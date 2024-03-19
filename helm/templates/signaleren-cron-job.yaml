@@ -14,7 +14,7 @@ spec:
           restartPolicy: Never
           containers:
             - name: {{ include "zaakafhandelcomponent.fullname" . }}-signaleren
-              image: curlimages/curl
+              image: "{{ .Values.signaleren.image.repository }}:{{ .Values.signaleren.image.tag | default .Chart.AppVersion }}"
               imagePullPolicy: IfNotPresent
               args:
                 - -s
