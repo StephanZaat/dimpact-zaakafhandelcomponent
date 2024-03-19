@@ -110,6 +110,9 @@ indexeren:
     repository: curlimages/curl
     pullPolicy: IfNotPresent
     tag: ""
+  nodeSelector: { }
+  tolerations: [ ]
+  affinity: { }
 
 signaleren:
   # Schedule of the signaleren job in CRON job format
@@ -119,6 +122,9 @@ signaleren:
     repository: curlimages/curl
     pullPolicy: IfNotPresent
     tag: ""
+  nodeSelector: { }
+  tolerations: [ ]
+  affinity: { }
 
 # Maximum size (in Mega Bytes) of files that can be uploaded.
 maxFileSizeMB: 80
